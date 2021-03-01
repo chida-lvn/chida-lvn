@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## まあまあ
+python, django
+jQuery, JavaScript
+Ubuntu, CentOS, heroku
+
+## ちょっと
+Laravel, bottle, golang
+React, three.js
+GCP, AWS
+MySQL, DynamoDB
