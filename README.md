@@ -22,6 +22,6 @@ Ubuntu, CentOS, heroku<br/>
 
 ## ちょっと
 Laravel, bottle, golang<br/>
-React, three.js, webpack<br/>
+React, three.js, webpack, GraphQL<br/>
 GCP, AWS<br/>
 MySQL, DynamoDB
