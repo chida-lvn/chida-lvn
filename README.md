@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## まあまあ
-python, django
-jQuery, JavaScript, HTML/CSS
-Ubuntu, CentOS, heroku
+python, django<br/>
+jQuery, JavaScript, HTML/CSS<br/>
+Ubuntu, CentOS, heroku<br/>
 
 ## ちょっと
-Laravel, bottle, golang
-React, three.js
-GCP, AWS
+Laravel, bottle, golang<br/>
+React, three.js<br/>
+GCP, AWS<br/>
 MySQL, DynamoDB
