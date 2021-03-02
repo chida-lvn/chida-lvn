@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## まあまあ
 python, django
-jQuery, JavaScript
+jQuery, JavaScript, HTML/CSS
 Ubuntu, CentOS, heroku
 
 ## ちょっと
