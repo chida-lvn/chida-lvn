@@ -21,7 +21,11 @@ jQuery, JavaScript, HTML/CSS<br/>
 Ubuntu, CentOS, heroku<br/>
 
 ## ちょっと
-Laravel, bottle, golang<br/>
-React, three.js, webpack, GraphQL<br/>
+golang<br/>
+React, three.js, webpack<br/>
+GraphQL<br/>
 GCP, AWS<br/>
 MySQL, DynamoDB
+
+## ほんのちょっと
+Laravel, bottle
